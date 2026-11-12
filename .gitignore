@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+*.log
+.DS_Store
